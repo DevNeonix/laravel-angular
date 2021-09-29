@@ -1,4 +1,4 @@
-#This is a repository where laravel and angular 12 coexist
+## This is a repository where laravel and angular 12 coexist
 
 the procedures are as follows:
 terminal 1: `php artisan serve`
